@@ -1,1 +1,1 @@
-# Exercise 26 - 
+# Exercise 26. Replace each special symbol with # in the following string
