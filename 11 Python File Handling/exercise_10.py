@@ -1,1 +1,1 @@
-# Exercise 10 - 
+# Exercise 10: Read and Write Binary
